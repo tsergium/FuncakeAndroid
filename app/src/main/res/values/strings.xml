@@ -3,5 +3,8 @@
     <string name="title_activity_main">MainActivity</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="motto">Lorem ipsum dolor sit amet.</string>
     <string name="action_settings">Settings</string>
 </resources>
